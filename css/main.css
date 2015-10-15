@@ -1,0 +1,282 @@
+.vrd{
+	background-image: url(../img/fondo2.jpg);
+	background-size: 100%;
+	padding-top: 1%;
+	position: relative;
+}
+
+.eco{
+	width: 120px;
+	height: 120px;
+	padding-bottom: 15px;
+}
+
+.semilla{
+	background-image: url(../img/semilla.jpg);
+	background-size: 100%;
+	background-attachment: fixed;
+	height: 750px;
+	margin-top: -230px;
+}
+
+.f1{
+	background-image: url(../img/fondo2.jpg);
+	background-size: 100%;
+	height: 200px;
+}
+
+.texto{
+	margin-top: 3%;
+	text-align: center;
+	font-weight: bold;
+	padding: 5%
+}
+
+.mision{
+	margin-top: 20%;
+	margin-bottom: 20%;
+	position: relative;
+	display: inline-block;
+}
+
+.misionlog{
+	margin-left: 140px;
+}
+
+.texmision{
+	text-align: center;
+	color: #2F4F4F ;
+	font-weight: bold;
+}
+
+.metodo{
+	margin-top: 5%;
+	background-image: url(../img/fondo.jpg);
+	height: 400px;	
+	display: inline-block;
+	position: relative;
+}
+
+.lid{
+	margin-top: 5%;
+	background-image: url(../img/metodo.JPG);
+	height: 400px;	
+	display: inline-block;
+	position: relative;
+}
+
+.div{
+	margin-top: 13%;
+	margin-left: 1%;
+}
+
+.met{
+	color: white;
+	text-align: center;
+}
+
+.met2{
+	color: white;
+	text-align: center;
+	font-size: 34px;
+}
+
+.ico{
+	margin-left: 45%;
+}
+
+.servicios{
+	text-align: center;
+	padding: 7%;
+	color: #2F4F4F;
+}
+
+.edu{
+	background-color: #FFEFD5;
+	position: relative;
+	display: inline-block;
+	margin: auto;
+	text-transform: lowercase;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	font-size: 16px; 
+}
+
+.mision1{
+	margin-top: 10%;
+	position: relative;
+	display: inline-block;
+	margin-left: 26%;
+}
+
+.imgserv{
+	width: 150px;
+	height: 150px;
+}
+
+.partes{
+	display: inline-block;
+	position: relative;
+}
+
+.agua{
+	background-image: url(../img/agua.jpg);
+	background-size: 100%;
+	margin-top: 5%;
+	min-height: 700px;
+	padding-top: 1%;
+	position: relative;
+}
+
+.tren{
+	height: 300px;
+	width: 100%;
+	position: relative;
+	opacity: 0.7;
+}
+
+.met1{
+	color: #000033;
+	text-align: center;
+}
+
+.human{
+	background-image: url(../img/claro.jpg);
+	background-size: 100%;
+	padding-bottom: 5%;
+	position: relative;
+}
+
+.equipo{
+	margin-top: 10%;
+	text-align: right;
+	color: #2F4F4F;
+}
+
+.equipo1{
+	margin-top: 10%;
+	color: #2F4F4F;
+}
+
+.equipo1{
+	margin-top: 10%;
+	color: #2F4F4F;
+}
+.meme{
+	border-radius: 50%;
+	width: 300px;
+	height: 300px;
+	margin-top: 5%;
+	position: relative;
+	display: inline-block;
+	left: 20%;
+}
+
+.divtex{
+	display: inline-block;
+	position: relative;
+	margin-bottom: 2%;
+}
+.texcargo{
+	text-align: center;
+	color: #2F4F4F;
+}
+
+.edu1{
+	float: none;
+	text-transform: lowercase;
+	margin: auto;
+	padding-bottom: 20px;
+	font-size: 16px; 
+	display: inline-block;
+	position: relative;
+}
+
+.redes{
+	width: 40px;
+	height: 40px;
+}
+
+.griss{
+	background-image: url(../img/gris.jpg);
+	background-size: 100%;
+	height: 630px;
+	position: relative;
+}
+
+.redes1{
+	width: 50px;
+	height: 50px;
+	margin-top: 180px;
+}
+
+.blog{
+	height: 220px;
+	width: 100%;
+	position: relative;
+}
+
+.azul{
+	background-image: url(../img/verd.jpg);
+	background-size: 100%;
+	height: 300px;
+	position: relative;
+}
+
+.foot{
+	background-image: url(../img/fondo2.jpg);
+	background-size: 100%;
+	min-height: 150px;
+	position: relative;	
+}
+
+.face{
+	border: 2px solid white;
+	border-width: 100%;
+	height: 220px;
+	margin-top: 20%;
+	margin-bottom: 20%;
+}
+
+.tex{
+	margin-top: 3%;
+	margin-left: 5%;
+	color: white;
+}
+
+.facelog{
+	width: 100px;
+	height: 100px;
+	float: right;
+	margin-top: 38%;
+}
+
+.mailog{
+	width: 70px;
+	height: 70px;
+	float: right;
+	margin-top: 47%;
+	margin-right: 5%;
+}
+
+.twit{
+	width: 80px;
+	height: 80px;
+	float: right;
+	margin-top: 43%;
+	margin-right: 5%;
+}
+
+.lab{
+	margin-top: 5%;
+}
+
+.lab1{
+	margin-top: 5%;
+	color: #DAA520;
+}
+
+.dir{
+	float: right;
+	margin-top: 4%;
+}
